@@ -5,4 +5,3 @@
 
 echo "Hola Mundo";
 
-?>
